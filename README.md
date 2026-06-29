@@ -4,6 +4,8 @@ A desktop debate interface built with Python and Tkinter for running structured 
 
 It lets multiple agents debate a question turn by turn, streams the conversation live, and generates a final synthesis at the end. The app supports LM Studio, OpenAI-compatible endpoints, and Anthropic through separate API adapters.
 
+![1](images/1.png)
+
 ## Features
 
 - Modern dark grayscale UI
